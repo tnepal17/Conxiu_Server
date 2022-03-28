@@ -1,6 +1,6 @@
 # ConXiu-Server
 
-Back End Server for the Alternate Reality Game Conxiu.
+Back End API for the Alternate Reality Game Conxiu.
 
 Utilizes: JavaScript, Node.js, Express.js, MongoDB(mongoose), AWS(Ec2)
 
